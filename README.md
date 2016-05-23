@@ -16,9 +16,3 @@
 
 
 ### Reinforcement Learning
-1. [Bayes meets Bellman: The Gaussian Process Approach to Temporal Difference Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3600&rep=rep1&type=pdf)
-2. [Reinforcement Learning with Gaussian Process](http://www.machinelearning.org/proceedings/icml2005/papers/026_Reinforcement_EngelEtAl.pdf)
-
-
-
-
