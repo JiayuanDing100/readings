@@ -57,6 +57,7 @@
 1. [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.pdf)
 2. [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
 3. [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf)
+4. [Policy Gradient vs. Value Function Approximation: A Reinforcement Learning Shootout](http://www.mcgovern-fagg.org/amy/pubs/tr-06-001.pdf)
 
 
 ### Multi-Agent Learning
