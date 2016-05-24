@@ -21,6 +21,7 @@
 ### Imitation Learning
 1. [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/pdf/1011.0686v3.pdf)
 2. [Query-Efficient Imitation Learning for End-to-End Autonomous Driving](http://arxiv.org/pdf/1605.06450v1.pdf)
+3. [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](http://arxiv.org/abs/1506.03099)
 
 
 ### State Representation
