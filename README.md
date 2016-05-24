@@ -18,7 +18,6 @@
 1. [The Hidden Agenda User Simulation Model](http://mi.eng.cam.ac.uk/~sjy/papers/scyo09.pdf)
 
 
-
 ### Imitation Learning
 1. [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/pdf/1011.0686v3.pdf)
 2. [Query-Efficient Imitation Learning for End-to-End Autonomous Driving](http://arxiv.org/pdf/1605.06450v1.pdf)
@@ -41,10 +40,23 @@
 5. [Deep Reinforcement Learning in Large Discrete Action Spaces](https://arxiv.org/pdf/1512.07679.pdf)
 6. [Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions](http://arxiv.org/abs/1512.01124)
 7. [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143)
+8. [Value Iteration Networks](http://arxiv.org/abs/1602.02867)
+9. [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783)
+10. [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461)
+11. [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf)
+12. [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+13. [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf)
+
+
+### Monte Carlo Tree Search
+1. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+
 
 
 ### Policy Gradient
 1. [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.pdf)
+2. [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
+3. [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf)
 
 
 ### Multi-Agent Learning
