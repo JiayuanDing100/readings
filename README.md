@@ -10,6 +10,10 @@
 6. [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/abs/1601.04574)
 
 
+### Natural Language Generation
+1. [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](http://mi.eng.cam.ac.uk/~sjy/papers/wgms15.pdf)
+
+
 ### User Simulator
 1. [The Hidden Agenda User Simulation Model](http://mi.eng.cam.ac.uk/~sjy/papers/scyo09.pdf)
 
@@ -34,6 +38,9 @@
 2. [Generalization and Exploration via Randomized Value Functions](https://arxiv.org/abs/1402.0635)
 3. [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971)
 4. [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/pdf/1603.00748v1.pdf)
+5. [Deep Reinforcement Learning in Large Discrete Action Spaces](https://arxiv.org/pdf/1512.07679.pdf)
+6. [Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions](http://arxiv.org/abs/1512.01124)
+7. [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143)
 
 
 ### Policy Gradient
