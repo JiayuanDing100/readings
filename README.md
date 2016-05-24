@@ -20,6 +20,9 @@
 2. Query-Efficient Imitation Learning for End-to-End Autonomous Driving, http://arxiv.org/pdf/1605.06450v1.pdf
 
 
+### State Representation
+1. [Backprop KF: Learning Discriminative Deterministic State Estimators](http://arxiv.org/pdf/1605.07148.pdf)
+
 
 ### Reinforcement Learning
 1. [Bayes meets Bellman: The Gaussian Process Approach to Temporal Difference Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3600&rep=rep1&type=pdf)
@@ -35,3 +38,7 @@
 
 ### Policy Gradient
 1. [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.pdf)
+
+
+### Multi-Agent Learning
+1. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](http://arxiv.org/pdf/1605.06676.pdf)
