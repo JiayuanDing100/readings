@@ -30,6 +30,7 @@
 1. [Deep Exploration via Bootstrapped DQN](http://arxiv.org/abs/1602.04621)
 2. [Generalization and Exploration via Randomized Value Functions](https://arxiv.org/abs/1402.0635)
 3. [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971)
+4. [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/pdf/1603.00748v1.pdf)
 
 
 ### Policy Gradient
