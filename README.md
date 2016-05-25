@@ -8,6 +8,7 @@
 4. [A Network-based End-to-End Trainable Task-oriented Dialogue System](http://arxiv.org/abs/1604.04562)
 5. [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) [Seq2Seq]
 6. [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/abs/1601.04574)
+7. [Dialog-based Language Learning](https://arxiv.org/abs/1604.06045)
 
 
 ### Natural Language Generation
