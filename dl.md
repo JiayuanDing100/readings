@@ -6,6 +6,11 @@
 
 
 ### Sequence to Sequence Learning
+1. [Sequential Neural Models with Stochastic Layers](http://arxiv.org/pdf/1605.07571.pdf)
+2. []
+
+### Memory Networks
+1. [Hierarchical Memory Networks](http://arxiv.org/pdf/1605.07427.pdf)
 
 
 ### Generative Models
@@ -19,3 +24,6 @@
 1. [Weight Uncertainty in Neural Networks](http://jmlr.org/proceedings/papers/v37/blundell15.pdf)
 2. [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 3. [The Variational Fair Autoencoder](https://arxiv.org/abs/1511.00830)
+
+### Adversarial Nets
+1. [Measuring Neural Net Robustness with Constraints](http://arxiv.org/pdf/1605.07262.pdf)

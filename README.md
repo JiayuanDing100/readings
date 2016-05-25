@@ -53,7 +53,6 @@
 1. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
 
 
-
 ### Policy Gradient
 1. [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.pdf)
 2. [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
@@ -63,3 +62,7 @@
 
 ### Multi-Agent Learning
 1. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](http://arxiv.org/pdf/1605.06676.pdf)
+
+### Optimization
+1. [Alternating Optimisation and Quadrature for Robust Reinforcement Learning](http://arxiv.org/pdf/1605.07496.pdf)
+2. 
