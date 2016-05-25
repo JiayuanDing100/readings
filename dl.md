@@ -7,7 +7,6 @@
 
 ### Sequence to Sequence Learning
 1. [Sequential Neural Models with Stochastic Layers](http://arxiv.org/pdf/1605.07571.pdf)
-2. []
 
 ### Memory Networks
 1. [Hierarchical Memory Networks](http://arxiv.org/pdf/1605.07427.pdf)
