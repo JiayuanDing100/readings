@@ -9,7 +9,7 @@
 5. [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) [Seq2Seq]
 6. [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/abs/1601.04574)
 7. [Dialog-based Language Learning](https://arxiv.org/abs/1604.06045)
-
+8. [On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems](http://arxiv.org/pdf/1605.07669.pdf)
 
 ### Natural Language Generation
 1. [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](http://mi.eng.cam.ac.uk/~sjy/papers/wgms15.pdf)
