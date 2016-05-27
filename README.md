@@ -63,6 +63,8 @@
 
 ### Multi-Agent Learning
 1. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](http://arxiv.org/pdf/1605.06676.pdf)
+2. [Learning Multiagent Communication with Backpropagation](http://arxiv.org/pdf/1605.07736.pdf)
+
 
 ### Optimization
 1. [Alternating Optimisation and Quadrature for Robust Reinforcement Learning](http://arxiv.org/pdf/1605.07496.pdf)

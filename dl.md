@@ -24,6 +24,11 @@
 5. [Semi-supervised Learning with Deep Generative Models](https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)
 
 
+### Unsupervised Learning
+1. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](http://arxiv.org/pdf/1605.08104.pdf)
+2. [Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning](http://arxiv.org/pdf/1605.08151.pdf)
+
+
 ### Variational Inference
 1. [Weight Uncertainty in Neural Networks](http://jmlr.org/proceedings/papers/v37/blundell15.pdf)
 2. [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
