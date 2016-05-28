@@ -47,11 +47,17 @@
 10. [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461)
 11. [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf)
 12. [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-13. [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf)
+13. [Dueling Network Architecture for Deep Reinforcement Learning](http://arxiv.org/abs/1511.06581)
+14. [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf)
+15. [Massively Parallel Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1507.04296)
 
 
 ### Monte Carlo Tree Search
 1. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+
+
+### Function Approximation
+1. [Universal Value Function Approximators](http://jmlr.org/proceedings/papers/v37/schaul15.pdf)
 
 
 ### Policy Gradient
@@ -59,6 +65,7 @@
 2. [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
 3. [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf)
 4. [Policy Gradient vs. Value Function Approximation: A Reinforcement Learning Shootout](http://www.mcgovern-fagg.org/amy/pubs/tr-06-001.pdf)
+5. [Recurrent Models of Visual Attention](http://arxiv.org/abs/1406.6247)
 
 
 ### Multi-Agent Learning
