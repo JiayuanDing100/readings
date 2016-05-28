@@ -22,11 +22,13 @@
 3. [Deep Generative Models](http://dpkingma.com/wordpress/wp-content/uploads/2014/10/2014-09_deep_prob_models_workshop_nomovies.pdf)
 4. [Learning Deep Generative Models](http://cubs.buffalo.edu/govind/CSE705-SeminarPapers/9.pdf)
 5. [Semi-supervised Learning with Deep Generative Models](https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)
+5. [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)
 
 
 ### Unsupervised Learning
 1. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](http://arxiv.org/pdf/1605.08104.pdf)
 2. [Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning](http://arxiv.org/pdf/1605.08151.pdf)
+3. [Pixel Recurrent Neural Networks](http://arxiv.org/pdf/1601.06759v2.pdf)
 
 
 ### Variational Inference
