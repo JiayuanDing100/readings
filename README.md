@@ -23,6 +23,16 @@
 1. [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/pdf/1011.0686v3.pdf)
 2. [Query-Efficient Imitation Learning for End-to-End Autonomous Driving](http://arxiv.org/pdf/1605.06450v1.pdf)
 3. [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](http://arxiv.org/abs/1506.03099)
+4. [Model-Free Imitation Learning with Policy Optimization](http://arxiv.org/pdf/1605.08478.pdf)
+5. [A New Corpus and Imitation Learning Framework for Context-Dependent Semantic Parsing](http://www.aclweb.org/anthology/Q14-1042.pdf)
+6. [Imitation Learning of Agenda-based Semantic Parsers](http://nlp.stanford.edu/pubs/berant-liang-tacl2015.pdf)
+7. [Imitation Learning with a Value-Based Prior](https://arxiv.org/ftp/arxiv/papers/1206/1206.5290.pdf)
+8. [Imitation Learning Applied to Embodied Conversational Agents](http://www.jmlr.org/proceedings/papers/v43/piot15.pdf)
+9. [Active Imitation Learning of Hierarchical Policies](http://web.engr.oregonstate.edu/~afern/papers/ijcai15-hamidi.pdf)
+10. [A Bayesian Approach to Imitation in Reinforcement Learning](http://www.cs.toronto.edu/~cebly/Papers/BayesImitation.pdf)
+11. [Between Imitation and Intention Learning](http://cs.brown.edu/~jmacglashan/pubpdfs/rhirl.pdf)
+12. [Imitation Learning by Coaching](https://papers.nips.cc/paper/4545-imitation-learning-by-coaching.pdf)
+13. [New Learning Modes for Sequential Decision Making](http://ir.library.oregonstate.edu/xmlui/handle/1957/47464)
 
 
 ### State Representation
@@ -68,6 +78,8 @@
 3. [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf)
 4. [Policy Gradient vs. Value Function Approximation: A Reinforcement Learning Shootout](http://www.mcgovern-fagg.org/amy/pubs/tr-06-001.pdf)
 5. [Recurrent Models of Visual Attention](http://arxiv.org/abs/1406.6247)
+6. [Guided Policy Search](http://jmlr.org/proceedings/papers/v28/levine13.pdf)
+7. [Variational Policy Search via Trajectory Optimization](http://papers.nips.cc/paper/5178-variational-policy-search-via-trajectory-optimization.pdf)
 
 
 ### Multi-Agent Learning
