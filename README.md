@@ -62,6 +62,9 @@
 15. [Massively Parallel Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1507.04296)
 16. [Policy Distillation](http://arxiv.org/abs/1511.06295)
 
+### NLP
+1. [Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning](http://arxiv.org/pdf/1603.07954v1.pdf)
+
 
 ### Monte Carlo Tree Search
 1. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
@@ -80,6 +83,7 @@
 5. [Recurrent Models of Visual Attention](http://arxiv.org/abs/1406.6247)
 6. [Guided Policy Search](http://jmlr.org/proceedings/papers/v28/levine13.pdf)
 7. [Variational Policy Search via Trajectory Optimization](http://papers.nips.cc/paper/5178-variational-policy-search-via-trajectory-optimization.pdf)
+8. [Data Generation as Sequential Decision Making](http://papers.nips.cc/paper/5759-data-generation-as-sequential-decision-making.pdf)
 
 
 ### Multi-Agent Learning
@@ -94,3 +98,9 @@
 
 ### Inverse Reinforcement Learning
 1. [Maximum Entropy Deep Inverse Reinforcement Learning](http://arxiv.org/abs/1507.04888)
+
+
+### Variational
+1. [Variational methods for Reinforcement Learning](http://www.jmlr.org/proceedings/papers/v9/furmston10a/furmston10a.pdf)
+2. [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://papers.nips.cc/paper/5668-variational-information-maximisation-for-intrinsically-motivated-reinforcement-learning.pdf)
+3. [Variational Policy Search via Trajectory Optimization](http://papers.nips.cc/paper/5178-variational-policy-search-via-trajectory-optimization.pdf)
