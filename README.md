@@ -50,11 +50,13 @@
 13. [Dueling Network Architecture for Deep Reinforcement Learning](http://arxiv.org/abs/1511.06581)
 14. [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf)
 15. [Massively Parallel Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1507.04296)
+16. [Policy Distillation](http://arxiv.org/abs/1511.06295)
 
 
 ### Monte Carlo Tree Search
 1. [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
-
+2. [Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410)
+3. [Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf)
 
 ### Function Approximation
 1. [Universal Value Function Approximators](http://jmlr.org/proceedings/papers/v37/schaul15.pdf)
@@ -71,8 +73,12 @@
 ### Multi-Agent Learning
 1. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](http://arxiv.org/pdf/1605.06676.pdf)
 2. [Learning Multiagent Communication with Backpropagation](http://arxiv.org/pdf/1605.07736.pdf)
-
+3. [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672)
+4. [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779)
 
 ### Optimization
 1. [Alternating Optimisation and Quadrature for Robust Reinforcement Learning](http://arxiv.org/pdf/1605.07496.pdf)
-2. 
+
+
+### Inverse Reinforcement Learning
+1. [Maximum Entropy Deep Inverse Reinforcement Learning](http://arxiv.org/abs/1507.04888)
