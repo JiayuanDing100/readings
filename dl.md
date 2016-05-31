@@ -27,7 +27,7 @@
 
 ### SGD
 1. [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/pdf/1506.05254v1.pdf)
-
+2. [Online Learning to Sample](http://arxiv.org/abs/1506.09016)
 
 
 ### Generative Models

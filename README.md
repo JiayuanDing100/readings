@@ -61,6 +61,7 @@
 14. [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf)
 15. [Massively Parallel Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1507.04296)
 16. [Policy Distillation](http://arxiv.org/abs/1511.06295)
+17. [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/pdf/1605.09128.pdf)
 
 ### NLP
 1. [Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning](http://arxiv.org/pdf/1603.07954v1.pdf)
