@@ -29,7 +29,6 @@
 1. [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/pdf/1506.05254v1.pdf)
 2. [Online Learning to Sample](http://arxiv.org/abs/1506.09016)
 
-
 ### Generative Models
 1. [A Note on the evaluation of generative models](http://arxiv.org/pdf/1511.01844v2.pdf)
 2. [One-Shot Generalization in Deep Generative Models](https://arxiv.org/pdf/1603.05106v1.pdf)
@@ -58,3 +57,6 @@
 
 ### Adversarial Nets
 1. [Measuring Neural Net Robustness with Constraints](http://arxiv.org/pdf/1605.07262.pdf)
+
+### NLP
+1. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410v2.pdf)
