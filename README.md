@@ -23,6 +23,7 @@
 1. [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/pdf/1011.0686v3.pdf)
 2. [Query-Efficient Imitation Learning for End-to-End Autonomous Driving](http://arxiv.org/pdf/1605.06450v1.pdf)
 3. [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](http://arxiv.org/abs/1506.03099)
+[A dagger by any other name: scheduled sampling](http://nlpers.blogspot.com/2016/03/a-dagger-by-any-other-name-scheduled.html)
 4. [Model-Free Imitation Learning with Policy Optimization](http://arxiv.org/pdf/1605.08478.pdf)
 5. [A New Corpus and Imitation Learning Framework for Context-Dependent Semantic Parsing](http://www.aclweb.org/anthology/Q14-1042.pdf)
 6. [Imitation Learning of Agenda-based Semantic Parsers](http://nlp.stanford.edu/pubs/berant-liang-tacl2015.pdf)
