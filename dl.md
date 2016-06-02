@@ -39,6 +39,7 @@
 7. [Stochastic Backpropagation and Approximate Inference in Deep Generative Models](http://arxiv.org/abs/1401.4082)
 8. [Neural Variational Inference and Learning in Belief Networks](http://arxiv.org/pdf/1402.0030v2.pdf)
 9. [Deep Generative Models with Stick-Breaking Priors](http://arxiv.org/abs/1605.06197)
+10. [Multi-Label Zero-Shot Learning via Concept Embedding](https://arxiv.org/ftp/arxiv/papers/1606/1606.00282.pdf)
 
 ### Unsupervised Learning
 1. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](http://arxiv.org/pdf/1605.08104.pdf)
@@ -60,3 +61,6 @@
 
 ### NLP
 1. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410v2.pdf)
+
+### QA
+1. [Hierarchical Co-Attention for Visual Question Answering](http://arxiv.org/pdf/1606.00061.pdf)

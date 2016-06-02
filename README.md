@@ -107,3 +107,7 @@
 1. [Variational methods for Reinforcement Learning](http://www.jmlr.org/proceedings/papers/v9/furmston10a/furmston10a.pdf)
 2. [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://papers.nips.cc/paper/5668-variational-information-maximisation-for-intrinsically-motivated-reinforcement-learning.pdf)
 3. [Variational Policy Search via Trajectory Optimization](http://papers.nips.cc/paper/5178-variational-policy-search-via-trajectory-optimization.pdf)
+
+
+### Contextual Bandit
+1. [Improved Regret Bounds for Oracle-Based Adversarial Contextual Bandits](http://arxiv.org/pdf/1606.00313.pdf)
