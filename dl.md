@@ -24,6 +24,7 @@
 ### Attention Models
 1. [Reasoning about Entailment with Neural Attention](http://arxiv.org/pdf/1509.06664v2.pdf)
 2. [Learning Efficient Algorithms with Hierarchical Attentive Memory](http://arxiv.org/abs/1602.03218)
+3. [Dynamic Capacity Networks](http://arxiv.org/pdf/1511.07838v7.pdf)
 
 ### SGD
 1. [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/pdf/1506.05254v1.pdf)
