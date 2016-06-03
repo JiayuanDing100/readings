@@ -41,6 +41,7 @@
 8. [Neural Variational Inference and Learning in Belief Networks](http://arxiv.org/pdf/1402.0030v2.pdf)
 9. [Deep Generative Models with Stick-Breaking Priors](http://arxiv.org/abs/1605.06197)
 10. [Multi-Label Zero-Shot Learning via Concept Embedding](https://arxiv.org/ftp/arxiv/papers/1606/1606.00282.pdf)
+11. [Adversarially Learned Inference](http://arxiv.org/pdf/1606.00704.pdf)
 
 ### Unsupervised Learning
 1. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](http://arxiv.org/pdf/1605.08104.pdf)
@@ -65,3 +66,6 @@
 
 ### QA
 1. [Hierarchical Co-Attention for Visual Question Answering](http://arxiv.org/pdf/1606.00061.pdf)
+
+### Optimization
+1. [Large Scale Distributed Hessian-Free Optimization for Deep Neural Network](http://arxiv.org/pdf/1606.00511.pdf)
