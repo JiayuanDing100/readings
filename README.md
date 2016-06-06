@@ -34,7 +34,7 @@
 11. [Between Imitation and Intention Learning](http://cs.brown.edu/~jmacglashan/pubpdfs/rhirl.pdf)
 12. [Imitation Learning by Coaching](https://papers.nips.cc/paper/4545-imitation-learning-by-coaching.pdf)
 13. [New Learning Modes for Sequential Decision Making](http://ir.library.oregonstate.edu/xmlui/handle/1957/47464)
-
+14. [Smooth Imitation Learning for Online Sequence Prediction](http://arxiv.org/pdf/1606.00968.pdf)
 
 ### State Representation
 1. [Backprop KF: Learning Discriminative Deterministic State Estimators](http://arxiv.org/pdf/1605.07148.pdf)
@@ -64,6 +64,7 @@
 16. [Policy Distillation](http://arxiv.org/abs/1511.06295)
 17. [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/pdf/1605.09128.pdf)
 18. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://arxiv.org/abs/1604.06057)
+19. [Prioritized Experience Replay](http://arxiv.org/pdf/1511.05952v3.pdf)
 
 ### NLP
 1. [Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning](http://arxiv.org/pdf/1603.07954v1.pdf)
