@@ -63,6 +63,7 @@
 
 ### NLP
 1. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410v2.pdf)
+2. [Very Deep Convolutional Networks for Natural Language Processing](http://arxiv.org/pdf/1606.01781.pdf)
 
 ### QA
 1. [Hierarchical Co-Attention for Visual Question Answering](http://arxiv.org/pdf/1606.00061.pdf)
