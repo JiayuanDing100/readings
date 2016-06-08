@@ -66,6 +66,7 @@
 17. [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/pdf/1605.09128.pdf)
 18. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://arxiv.org/abs/1604.06057)
 19. [Prioritized Experience Replay](http://arxiv.org/pdf/1511.05952v3.pdf)
+20. [Benchmarking Deep Reinforcement Learning for Continuous Control](http://arxiv.org/abs/1604.06778)
 
 ### NLP
 1. [Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning](http://arxiv.org/pdf/1603.07954v1.pdf)
@@ -89,6 +90,9 @@
 6. [Guided Policy Search](http://jmlr.org/proceedings/papers/v28/levine13.pdf)
 7. [Variational Policy Search via Trajectory Optimization](http://papers.nips.cc/paper/5178-variational-policy-search-via-trajectory-optimization.pdf)
 8. [Data Generation as Sequential Decision Making](http://papers.nips.cc/paper/5759-data-generation-as-sequential-decision-making.pdf)
+9. [High-Dimensional Continuous Control Using Generalized Advantage Estimation](http://arxiv.org/abs/1506.02438)
+10. [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/pdf/1506.05254v3.pdf)
+11. [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477v4.pdf)
 
 
 ### Multi-Agent Learning
@@ -99,6 +103,7 @@
 
 ### Optimization
 1. [Alternating Optimisation and Quadrature for Robust Reinforcement Learning](http://arxiv.org/pdf/1605.07496.pdf)
+2. [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/pdf/1504.00702v5.pdf)
 
 
 ### Inverse Reinforcement Learning
