@@ -11,6 +11,9 @@
 7. [Dialog-based Language Learning](https://arxiv.org/abs/1604.06045)
 8. [On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems](http://arxiv.org/pdf/1605.07669.pdf)
 9. [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf)
+10. [Continuously Learning Neural Dialogue Management](http://arxiv.org/pdf/1606.02689.pdf)
+11. [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](http://arxiv.org/pdf/1606.02560.pdf)
+12. [DialPort: Connecting the Spoken Dialog Research Community to Real User Data](http://arxiv.org/pdf/1606.02562.pdf)
 
 ### Natural Language Generation
 1. [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](http://mi.eng.cam.ac.uk/~sjy/papers/wgms15.pdf)
@@ -44,6 +47,14 @@
 ### Reinforcement Learning
 1. [Bayes meets Bellman: The Gaussian Process Approach to Temporal Difference Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3600&rep=rep1&type=pdf)
 2. [Reinforcement Learning with Gaussian Process](http://www.machinelearning.org/proceedings/icml2005/papers/026_Reinforcement_EngelEtAl.pdf)
+
+### Off-policy Learning
+1. [Safe and efficient off-policy reinforcement learning](http://arxiv.org/pdf/1606.02647.pdf)
+
+### Actor-Critic
+1. [Natural Actor-Critic](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/NaturalActorCritic.pdf)
+2. [A Generalized Natural Actor-Critic Algorithm](http://papers.nips.cc/paper/3767-a-generalized-natural-actor-critic-algorithm.pdf)
+3. [Incremental Natural Actor-Critic Algorithms](https://papers.nips.cc/paper/3258-incremental-natural-actor-critic-algorithms.pdf)
 
 
 ### Deep Q Learning

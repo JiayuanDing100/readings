@@ -17,6 +17,7 @@
 
 ### Memory Networks
 1. [Hierarchical Memory Networks](http://arxiv.org/pdf/1605.07427.pdf)
+2. [Active Long Term Memory Networks](http://arxiv.org/pdf/1606.02355.pdf)
 
 ### Encoder-Decoder
 1. [Encode, Review, and Decode: Reviewer Module for Caption Generation](http://arxiv.org/pdf/1605.07912.pdf)
@@ -25,10 +26,12 @@
 1. [Reasoning about Entailment with Neural Attention](http://arxiv.org/pdf/1509.06664v2.pdf)
 2. [Learning Efficient Algorithms with Hierarchical Attentive Memory](http://arxiv.org/abs/1602.03218)
 3. [Dynamic Capacity Networks](http://arxiv.org/pdf/1511.07838v7.pdf)
+4. [Iterative Alternating Neural Attention for Machine Reading](http://arxiv.org/pdf/1606.02245.pdf)
 
 ### SGD
 1. [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/pdf/1506.05254v1.pdf)
 2. [Online Learning to Sample](http://arxiv.org/abs/1506.09016)
+3. [Revisiting natural gradient for deep networks](http://arxiv.org/pdf/1301.3584.pdf)
 
 ### Generative Models
 1. [A Note on the evaluation of generative models](http://arxiv.org/pdf/1511.01844v2.pdf)
