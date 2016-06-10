@@ -47,6 +47,7 @@
 ### Reinforcement Learning
 1. [Bayes meets Bellman: The Gaussian Process Approach to Temporal Difference Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3600&rep=rep1&type=pdf)
 2. [Reinforcement Learning with Gaussian Process](http://www.machinelearning.org/proceedings/icml2005/papers/026_Reinforcement_EngelEtAl.pdf)
+3. [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396)
 
 ### Off-policy Learning
 1. [Safe and efficient off-policy reinforcement learning](http://arxiv.org/pdf/1606.02647.pdf)

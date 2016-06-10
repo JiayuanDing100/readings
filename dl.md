@@ -9,6 +9,7 @@
 1. [Sequential Neural Models with Stochastic Layers](http://arxiv.org/pdf/1605.07571.pdf)
 2. [Order Matters: Sequence to sequence for sets](http://arxiv.org/pdf/1511.06391v3.pdf)
 3. [Multi-task Sequence to Sequence Learning](http://arxiv.org/pdf/1511.06114v3)
+4. [Sequence-to-Sequence Learning as Beam-Search Optimization](http://arxiv.org/abs/1606.02960)
 
 
 ### LSTM
