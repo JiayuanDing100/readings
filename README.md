@@ -15,9 +15,11 @@
 11. [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](http://arxiv.org/pdf/1606.02560.pdf)
 12. [DialPort: Connecting the Spoken Dialog Research Community to Real User Data](http://arxiv.org/pdf/1606.02562.pdf)
 13. [Deep Reinforcement Learning for Dialogue Generation](http://arxiv.org/pdf/1606.01541v1.pdf)
+14. [Policy Networks with Two-Stage Training for Dialogue Systems](http://arxiv.org/pdf/1606.03152.pdf)
 
 ### Natural Language Generation
 1. [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](http://mi.eng.cam.ac.uk/~sjy/papers/wgms15.pdf)
+2. [Conditional Generation and Snapshot Learning in Neural Dialogue Systems](http://arxiv.org/pdf/1606.03352.pdf)
 
 
 ### User Simulator

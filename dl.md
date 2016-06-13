@@ -22,6 +22,7 @@
 
 ### Encoder-Decoder
 1. [Encode, Review, and Decode: Reviewer Module for Caption Generation](http://arxiv.org/pdf/1605.07912.pdf)
+2. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)
 
 ### Attention Models
 1. [Reasoning about Entailment with Neural Attention](http://arxiv.org/pdf/1509.06664v2.pdf)
@@ -33,6 +34,7 @@
 1. [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/pdf/1506.05254v1.pdf)
 2. [Online Learning to Sample](http://arxiv.org/abs/1506.09016)
 3. [Revisiting natural gradient for deep networks](http://arxiv.org/pdf/1301.3584.pdf)
+4. [Memory-Efficient Backpropagation Through Time](http://arxiv.org/pdf/1606.03401.pdf)
 
 ### Generative Models
 1. [A Note on the evaluation of generative models](http://arxiv.org/pdf/1511.01844v2.pdf)
@@ -46,6 +48,7 @@
 9. [Deep Generative Models with Stick-Breaking Priors](http://arxiv.org/abs/1605.06197)
 10. [Multi-Label Zero-Shot Learning via Concept Embedding](https://arxiv.org/ftp/arxiv/papers/1606/1606.00282.pdf)
 11. [Adversarially Learned Inference](http://arxiv.org/pdf/1606.00704.pdf)
+12. [Deep Directed Generative Models with Energy-Based Probability Estimation](http://arxiv.org/pdf/1606.03439.pdf)
 
 ### Unsupervised Learning
 1. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](http://arxiv.org/pdf/1605.08104.pdf)
@@ -71,6 +74,9 @@
 
 ### QA
 1. [Hierarchical Co-Attention for Visual Question Answering](http://arxiv.org/pdf/1606.00061.pdf)
+
+### Image Captioning
+1. [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/pdf/1411.4555v2.pdf)
 
 ### Optimization
 1. [Large Scale Distributed Hessian-Free Optimization for Deep Neural Network](http://arxiv.org/pdf/1606.00511.pdf)
