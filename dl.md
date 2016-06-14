@@ -49,6 +49,9 @@
 10. [Multi-Label Zero-Shot Learning via Concept Embedding](https://arxiv.org/ftp/arxiv/papers/1606/1606.00282.pdf)
 11. [Adversarially Learned Inference](http://arxiv.org/pdf/1606.00704.pdf)
 12. [Deep Directed Generative Models with Energy-Based Probability Estimation](http://arxiv.org/pdf/1606.03439.pdf)
+13. [Improved Techniques for Training GANs](http://arxiv.org/pdf/1606.03498.pdf)
+14. [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://arxiv.org/pdf/1606.03657.pdf)
+15. [Generative Adversarial Imitation Learning](http://arxiv.org/pdf/1606.03476.pdf)
 
 ### Unsupervised Learning
 1. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](http://arxiv.org/pdf/1605.08104.pdf)

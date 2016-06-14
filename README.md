@@ -16,6 +16,7 @@
 12. [DialPort: Connecting the Spoken Dialog Research Community to Real User Data](http://arxiv.org/pdf/1606.02562.pdf)
 13. [Deep Reinforcement Learning for Dialogue Generation](http://arxiv.org/pdf/1606.01541v1.pdf)
 14. [Policy Networks with Two-Stage Training for Dialogue Systems](http://arxiv.org/pdf/1606.03152.pdf)
+15. [Neural Belief Tracker: Data-Driven Dialogue State Tracking](http://arxiv.org/pdf/1606.03777.pdf)
 
 ### Natural Language Generation
 1. [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](http://mi.eng.cam.ac.uk/~sjy/papers/wgms15.pdf)
@@ -42,6 +43,7 @@
 12. [Imitation Learning by Coaching](https://papers.nips.cc/paper/4545-imitation-learning-by-coaching.pdf)
 13. [New Learning Modes for Sequential Decision Making](http://ir.library.oregonstate.edu/xmlui/handle/1957/47464)
 14. [Smooth Imitation Learning for Online Sequence Prediction](http://arxiv.org/pdf/1606.00968.pdf)
+15. [Generative Adversarial Imitation Learning](http://arxiv.org/pdf/1606.03476.pdf)
 
 ### State Representation
 1. [Backprop KF: Learning Discriminative Deterministic State Estimators](http://arxiv.org/pdf/1605.07148.pdf)
