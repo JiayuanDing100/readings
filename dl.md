@@ -57,7 +57,7 @@
 1. [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](http://arxiv.org/pdf/1605.08104.pdf)
 2. [Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning](http://arxiv.org/pdf/1605.08151.pdf)
 3. [Pixel Recurrent Neural Networks](http://arxiv.org/pdf/1601.06759v2.pdf)
-
+4. [Unsupervised Learning of Predictors from Unpaired Input-Output Samples](http://arxiv.org/pdf/1606.04646.pdf)
 
 ### Variational Inference
 1. [Weight Uncertainty in Neural Networks](http://jmlr.org/proceedings/papers/v37/blundell15.pdf)

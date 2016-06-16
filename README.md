@@ -55,6 +55,8 @@
 3. [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396)
 4. [Model-Free Episodic Control](https://arxiv.org/pdf/1606.04460.pdf)
 5. [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)
+6. [Strategic Attentive Writer for Learning Macro-Actions](http://arxiv.org/pdf/1606.04695.pdf)
+7. [Deep Reinforcement Learning with Macro-Actions](http://arxiv.org/pdf/1606.04615.pdf)
 
 ### Off-policy Learning
 1. [Safe and efficient off-policy reinforcement learning](http://arxiv.org/pdf/1606.02647.pdf)
