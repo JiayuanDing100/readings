@@ -10,6 +10,7 @@
 2. [Order Matters: Sequence to sequence for sets](http://arxiv.org/pdf/1511.06391v3.pdf)
 3. [Multi-task Sequence to Sequence Learning](http://arxiv.org/pdf/1511.06114v3)
 4. [Sequence-to-Sequence Learning as Beam-Search Optimization](http://arxiv.org/abs/1606.02960)
+5. [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 
 ### LSTM
@@ -79,7 +80,7 @@
 1. [Hierarchical Co-Attention for Visual Question Answering](http://arxiv.org/pdf/1606.00061.pdf)
 
 ### Image Captioning
-1. [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/pdf/1411.4555v2.pdf)
+1. [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/pdf/1411.4555v2.pdf): Evaluation Metrics (BLEU, Perplexity)
 
 ### Optimization
 1. [Large Scale Distributed Hessian-Free Optimization for Deep Neural Network](http://arxiv.org/pdf/1606.00511.pdf)
