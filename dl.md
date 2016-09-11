@@ -24,6 +24,8 @@
 ### Encoder-Decoder
 1. [Encode, Review, and Decode: Reviewer Module for Caption Generation](http://arxiv.org/pdf/1605.07912.pdf)
 2. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)
+3. [A Hierarchical Recurrent Encoder-Decoder for Generative Context-Aware Query Suggestion](https://arxiv.org/pdf/1507.02221v1.pdf)
+4. [End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/IS16_ContextualSLU.pdf)
 
 ### Attention Models
 1. [Reasoning about Entailment with Neural Attention](http://arxiv.org/pdf/1509.06664v2.pdf)

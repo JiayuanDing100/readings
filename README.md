@@ -25,6 +25,7 @@
 
 ### User Simulator
 1. [The Hidden Agenda User Simulation Model](http://mi.eng.cam.ac.uk/~sjy/papers/scyo09.pdf)
+2. [A Sequence-to-Sequence Model for User Simulation in Spoken Dialogue Systems](http://arxiv.org/abs/1607.00070)
 
 
 ### Imitation Learning
