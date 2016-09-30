@@ -16,6 +16,7 @@
 ### LSTM
 1. [Grid Long Short-Term Memory](http://arxiv.org/pdf/1507.01526v3.pdf)
 2. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
+3. [RNN - GRU/LSTM](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
 
 
 ### Memory Networks
