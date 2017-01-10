@@ -87,7 +87,8 @@
 15. [Massively Parallel Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1507.04296)
 16. [Policy Distillation](http://arxiv.org/abs/1511.06295)
 17. [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/pdf/1605.09128.pdf)
-18. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://arxiv.org/abs/1604.06057)
+18. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://arxiv.org/abs/1604.06057)<br/>
+1). Subtasks, subgoal, temporal abstraction; 2). Option reusable
 19. [Prioritized Experience Replay](http://arxiv.org/pdf/1511.05952v3.pdf)
 20. [Benchmarking Deep Reinforcement Learning for Continuous Control](http://arxiv.org/abs/1604.06778)
 21. [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/pdf/1603.00748.pdf)<br/>
