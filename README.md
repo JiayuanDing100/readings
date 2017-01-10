@@ -58,6 +58,7 @@
 5. [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)
 6. [Strategic Attentive Writer for Learning Macro-Actions](http://arxiv.org/pdf/1606.04695.pdf)
 7. [Deep Reinforcement Learning with Macro-Actions](http://arxiv.org/pdf/1606.04615.pdf)
+8. [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/pdf/1611.05397.pdf)
 
 ### Off-policy Learning
 1. [Safe and efficient off-policy reinforcement learning](http://arxiv.org/pdf/1606.02647.pdf)
@@ -89,6 +90,9 @@
 18. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://arxiv.org/abs/1604.06057)
 19. [Prioritized Experience Replay](http://arxiv.org/pdf/1511.05952v3.pdf)
 20. [Benchmarking Deep Reinforcement Learning for Continuous Control](http://arxiv.org/abs/1604.06778)
+21. [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/pdf/1603.00748.pdf)
+* 1). Q-learning in continuous domains 2). Model-based acceleration
+22. 
 
 ### NLP
 1. [Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning](http://arxiv.org/pdf/1603.07954v1.pdf)
