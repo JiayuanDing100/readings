@@ -90,8 +90,8 @@
 18. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://arxiv.org/abs/1604.06057)
 19. [Prioritized Experience Replay](http://arxiv.org/pdf/1511.05952v3.pdf)
 20. [Benchmarking Deep Reinforcement Learning for Continuous Control](http://arxiv.org/abs/1604.06778)
-21. [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/pdf/1603.00748.pdf)
-* 1). Q-learning in continuous domains 2). Model-based acceleration
+21. [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/pdf/1603.00748.pdf)<br/>
+1). Q-learning in continuous domains 2). Model-based acceleration
 22. 
 
 ### NLP
