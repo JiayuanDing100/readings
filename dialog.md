@@ -6,7 +6,7 @@
 
 
 ### Policy Transfer
-1. [Dialogue policy learning for combinations of noise and user simulation: transfer results](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.6098&rep=rep1&type=pdf)
+1. [Dialogue policy learning for combinations of noise and user simulation: transfer results](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.6098&rep=rep1&type=pdf)<br/>
 `--Compare policy transfer properties under different environment, and show that policy trained under high-noise conditions has better transfer properties.`
 
 2. 
