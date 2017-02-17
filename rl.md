@@ -6,6 +6,7 @@
 `--A good review to briefly summarize the latest work on deep RL.`
 
 
-### Policy Transfer
-1. [Dialogue policy learning for combinations of noise and user simulation: transfer results](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.6098&rep=rep1&type=pdf)<br/>
-`--A good review to briefly summarize the latest work on deep RL.`
+### Hierarchical RL
+1. [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057)<br/>
+`--A top-level value function (meta controller) learns a policy over subgoals, and a low-level function (controller) learns a policy over atomic actions to satisfy the given goal.`
+2. 
