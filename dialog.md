@@ -11,3 +11,8 @@
 2. [Personalizing a Dialogue System with Transfer Learning](https://arxiv.org/abs/1610.02891)<br/>
 `--Two Q networks, Q_g for common knowledge, Q_p for personalized networks; each user has a trained model; first train on source domain, then train on part of target domain; test with the rest of target domain.`
 3. 
+
+### Task-Completion Dialogue
+1. [A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://arxiv.org/abs/1701.04024)<br/>
+`--1). Seq2Seq (with Soft-attention for copying mechanism); 2). KB-Type encoding in Input; 3). For decoding, it does not say how to handle the (most) unseen kb-entities.`
+2. []()<br/>
