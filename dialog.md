@@ -1,8 +1,8 @@
 # Dialogue readings
 
 
-### Regulation
-1. [Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations](http://arxiv.org/pdf/1605.07154.pdf)
+### Overview
+1. []()<br/>
 
 
 ### Policy Transfer
@@ -15,6 +15,11 @@
 ### Task-Completion Dialogue
 1. [A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://arxiv.org/abs/1701.04024)<br/>
 `--1). Seq2Seq (with Soft-attention for copying mechanism); 2). KB-Type encoding in Input; 3). For decoding, it does not say how to handle the (most) unseen kb-entities.`
-2. [Generative Deep Neural Networks for Dialogue: A Short Review](https://arxiv.org/abs/1611.06216)<br/>
-`--1). Three encoder-decoder architecture; 2). Evaluation`
+2. []()<br/>
+
+### Chit-chat
+1. [Generative Deep Neural Networks for Dialogue: A Short Review](https://arxiv.org/abs/1611.06216)<br/>
+`--1). Three encoder-decoder architectures; 2). Evaluation`
+2. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198)<br/>
+`--1). Use adversarial loss as evaluation;`
 3. 
