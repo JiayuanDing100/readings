@@ -23,3 +23,8 @@
 2. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198)<br/>
 `--1). Use adversarial loss as evaluation;`
 3. 
+
+
+### Character-Level Response Generation
+1. [Online Sequence-to-Sequence Active Learning for Open-Domain Dialogue Generation](https://arxiv.org/pdf/1612.03929.pdf)<br/>
+`--1). Modified ByteNet for diversity-promoting; 2). Character-level response generation is working?(Not sure)`
