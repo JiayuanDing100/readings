@@ -15,7 +15,10 @@
 ### Task-Completion Dialogue
 1. [A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://arxiv.org/abs/1701.04024)<br/>
 `--1). Seq2Seq (with Soft-attention for copying mechanism); 2). KB-Type encoding in Input; 3). For decoding, it does not say how to handle the (most) unseen kb-entities.`
-2. []()<br/>
+2. [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/pdf/1605.07683.pdf)<br/>
+`--1). Five tasks(template based); 2). Evaluation: Per-Dialogue accuracy, if the model can predict all the tasks (templates) correctly.`
+3. []()<br/>
+
 
 ### Chit-chat
 1. [Generative Deep Neural Networks for Dialogue: A Short Review](https://arxiv.org/abs/1611.06216)<br/>
@@ -28,3 +31,5 @@
 ### Character-Level Response Generation
 1. [Online Sequence-to-Sequence Active Learning for Open-Domain Dialogue Generation](https://arxiv.org/pdf/1612.03929.pdf)<br/>
 `--1). Modified ByteNet for diversity-promoting; 2). Character-level response generation is working?(Not sure)`
+
+
