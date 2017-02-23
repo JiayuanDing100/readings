@@ -12,3 +12,8 @@
 2. [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://openreview.net/pdf?id=B1oK8aoxe)<br/>
 `--First learn a span of skills in a pre-training environment, then train high-level policies over these skills in the downstream tasks.`
 3. 
+
+
+### GAN with RL 
+1. [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)<br/>
+`--1). Sequence Generation, first GAN for text; 2). Adversarial Loss v.s. MLE`
