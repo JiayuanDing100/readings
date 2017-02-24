@@ -25,7 +25,8 @@
 `--1). Three encoder-decoder architectures; 2). Evaluation`
 2. [Adversarial Evaluation of Dialogue Models](https://arxiv.org/abs/1701.08198)<br/>
 `--1). Use adversarial loss as evaluation;`
-3. 
+3. [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)<br/>
+`--1). Adversarial training for generation; 2). Adversarial evaluation`
 
 
 ### Character-Level Response Generation
