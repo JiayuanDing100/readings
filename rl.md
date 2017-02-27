@@ -13,6 +13,10 @@
 `--First learn a span of skills in a pre-training environment, then train high-level policies over these skills in the downstream tasks.`
 3. 
 
+### Task Hierarchy
+1. [Automatic Discovery and Transfer of MAXQ Hierarchies](http://engr.case.edu/ray_soumya/papers/maxq.icml08.pdf)<br/>
+`--1). Discovery the subtask hierarchies by analyzing the casual and temporal relationships among the actions in the trajectory with DBN.`
+
 
 ### GAN with RL 
 1. [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)<br/>
