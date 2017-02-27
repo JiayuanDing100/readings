@@ -28,6 +28,10 @@
 3. [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)<br/>
 `--1). Adversarial training for generation; 2). Adversarial evaluation`
 
+### Image-Grounded Conversation:
+1. [Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation](https://arxiv.org/pdf/1701.08251.pdf)<br/>
+`--1). Question Generation & Response Generation; 2). 3-turn`
+
 
 ### Character-Level Response Generation
 1. [Online Sequence-to-Sequence Active Learning for Open-Domain Dialogue Generation](https://arxiv.org/pdf/1612.03929.pdf)<br/>
